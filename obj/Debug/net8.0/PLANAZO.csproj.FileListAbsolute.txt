@@ -1,0 +1,14 @@
+/home/kevin/PLANAZO-POO-CSharp/bin/Debug/net8.0/PLANAZO
+/home/kevin/PLANAZO-POO-CSharp/bin/Debug/net8.0/PLANAZO.deps.json
+/home/kevin/PLANAZO-POO-CSharp/bin/Debug/net8.0/PLANAZO.runtimeconfig.json
+/home/kevin/PLANAZO-POO-CSharp/bin/Debug/net8.0/PLANAZO.dll
+/home/kevin/PLANAZO-POO-CSharp/bin/Debug/net8.0/PLANAZO.pdb
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/PLANAZO.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/PLANAZO.AssemblyInfoInputs.cache
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/PLANAZO.AssemblyInfo.cs
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/PLANAZO.csproj.CoreCompileInputs.cache
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/PLANAZO.dll
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/refint/PLANAZO.dll
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/PLANAZO.pdb
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/PLANAZO.genruntimeconfig.cache
+/home/kevin/PLANAZO-POO-CSharp/obj/Debug/net8.0/ref/PLANAZO.dll
